@@ -1,0 +1,24 @@
+[submodule "nav/icra_init_carto"]
+	path = nav/icra_init_carto
+	url = git@github.com:XDUZero2Hero/cartographer_init_pos.git
+[submodule "vision/Apriltag_ros"]
+	path = vision/Apriltag_ros
+	url = git@github.com:XDUZero2Hero/Apriltag_ros.git
+[submodule "nav/icra_map"]
+	path = nav/icra_map
+	url = git@github.com:XDUZero2Hero/icra_map.git
+[submodule "icra_cartographer_config"]
+	path = nav/icra_cartographer_config
+	url = git@github.com:XDUZero2Hero/icra_cartographer_config.git
+[submodule "nav/icra_movebase_config"]
+	path = nav/icra_movebase_config
+	url = git@github.com:XDUZero2Hero/icra_movebase_config.git
+[submodule "driver/lslidar_ros"]
+	path = driver/lslidar_ros
+	url = git@github.com:XDUZero2Hero/lslidar_ros.git
+[submodule "driver/robot_description_rmua2022"]
+	path = driver/robot_description_rmua2022
+	url = git@github.com:XDUZero2Hero/robot_description_rm2020.git
+[submodule "driver/roborts_base"]
+	path = driver/roborts_base
+	url = git@github.com:XDUZero2Hero/z2h_robo_base.git
