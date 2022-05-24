@@ -22,3 +22,6 @@
 [submodule "driver/roborts_base"]
 	path = driver/roborts_base
 	url = git@github.com:XDUZero2Hero/z2h_robo_base.git
+[submodule "nav/icra_cartographer_config"]
+	path = nav/icra_cartographer_config
+	url = git@github.com:XDUZero2Hero/icra_cartographer_config.git
