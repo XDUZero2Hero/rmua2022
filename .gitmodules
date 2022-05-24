@@ -25,3 +25,9 @@
 [submodule "nav/icra_cartographer_config"]
 	path = nav/icra_cartographer_config
 	url = git@github.com:XDUZero2Hero/icra_cartographer_config.git
+[submodule "zxw_bringup"]
+	path = zxw_bringup
+	url = git@github.com:XDUZero2Hero/zxw_bringup.git
+[submodule "nav/pointcloud_to_lasersacn"]
+	path = nav/pointcloud_to_lasersacn
+	url = git@github.com:ZXW2600/pointcloud_to_laserscan.git
